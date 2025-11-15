@@ -9,7 +9,7 @@ To set up a virtualized environment using Oracle VirtualBox, install Kali Linux 
 To install and configure Oracle VM VirtualBox.
 
 ## Pre-requisites:
-- Machine with Internet access
+- Machine with Internet access 
 - Minimum 4 GB RAM
 - Sufficient storage space
 ## Steps:
